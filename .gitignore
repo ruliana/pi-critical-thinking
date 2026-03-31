@@ -1,0 +1,5 @@
+# Pi runtime files
+sessions/
+git/
+npm/
+auth.json
